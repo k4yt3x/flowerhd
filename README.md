@@ -6,6 +6,10 @@
     <img src="PNG/花.PNG">
 </p>
 
+## Telegram 表情包
+
+“花！”在 telegram 上现成的表情包在：https://t.me/addstickers/flowerhd
+
 ## 开源许可
 
 本项目下所有文件均使用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) 开源许可。
